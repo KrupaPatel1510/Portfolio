@@ -1,0 +1,32 @@
+.contact-window {
+    margin-top: 80px;
+    padding: 20px 12vw 20px 15vw;
+    align-items: center;
+}
+.contact-about h1{
+    text-align: center;
+    
+}
+.contact-name {
+    font-size: 26px;
+    padding: 24px 0;
+    border-bottom: 1px solid violet;
+    /* width: 160px; */
+}
+.contact-mail {
+    font-size: 22px;
+    padding: 24px 0;
+    border-bottom: 1px solid violet;
+    /* width: 330px; */
+}
+.contact-number{
+    font-size: 22px;
+    padding: 20px 0;
+    border-bottom: 1px solid violet;
+    /* width: 140px; */
+}
+.contact-address{
+    font-size: 22px;
+    padding: 20px 0;
+    border-bottom: 1px solid violet;
+}
